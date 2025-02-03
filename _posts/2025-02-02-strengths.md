@@ -2,7 +2,7 @@
 layout: post
 title: "My Strengths"
 author: "Shiza Shaikh"
-categories: facts, sample
+categories: [facts, sample]
 tags: []
 image: 
 ---
