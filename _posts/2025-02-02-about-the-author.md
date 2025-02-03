@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "About Me"
 author: "Shiza Shaikh"
 categories: facts
 tags: []
