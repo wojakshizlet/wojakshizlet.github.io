@@ -7,6 +7,8 @@ tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
+Hi there! Welcome!
+
 This is an ePortfolio that I have created for COOP 2100, and will continue to maintain throughout the duration of the entire course.
 
 I may even continue to maintain the repository holding the site information as time goes on, so stay tuned!
