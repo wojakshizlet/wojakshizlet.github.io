@@ -4,7 +4,7 @@ title: "Welcome to My ePortfolio!"
 author: "Shiza Shaikh"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: bergeron.jpeg
 ---
 
 Hi there! Welcome!
