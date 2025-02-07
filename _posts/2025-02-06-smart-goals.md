@@ -4,7 +4,7 @@ title: "My SMART Goals"
 author: "Shiza Shaikh"
 categories: [facts, sample]
 tags: []
-image: 
+image: target.webp
 ---
 
 ## hi
