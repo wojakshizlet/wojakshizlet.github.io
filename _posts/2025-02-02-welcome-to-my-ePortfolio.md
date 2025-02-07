@@ -2,8 +2,8 @@
 layout: post
 title: "Welcome to My ePortfolio!"
 author: "Shiza Shaikh"
-categories: documentation
-tags: [documentation,sample]
+categories: [facts, posts]
+tags: docs
 image: bergeron.jpg
 ---
 
