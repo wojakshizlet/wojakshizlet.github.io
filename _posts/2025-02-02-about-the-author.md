@@ -2,7 +2,7 @@
 layout: post
 title: "About Me"
 author: "Shiza Shaikh"
-categories: facts
+categories: [facts, posts]
 tags: []
 image: cuba-2.jpg
 ---
