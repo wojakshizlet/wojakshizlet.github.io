@@ -10,9 +10,8 @@ menu:
 - {name: 'About Me',   url: 'about-me'}
 - {name: 'Posts',      url: 'posts'}
 - {name: 'My Career',  url: 'career'}
-- {name: 'Contact',    url: 'contact'}
 - {name: 'Coursework', url: 'coursework'}
-- {name: 'Projects',   url: 'Projects'}
+- {name: 'Projects',   url: 'projects'}
 - {name: 'Bibliography', url: 'bibliography'}
 - {name: 'Docs', url: 'docs'}
 # - {name: 'Learning Resources', url: 'resources'}
