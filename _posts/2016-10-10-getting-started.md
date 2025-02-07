@@ -2,8 +2,8 @@
 layout: post
 title: "Getting Started"
 author: "Paul Le"
-categories: 
-tags: []
+categories: docs
+tags: [docs]
 image: city-1.jpg
 ---
 
