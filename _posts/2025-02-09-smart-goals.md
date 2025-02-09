@@ -9,7 +9,7 @@ image: target.webp
 
 Listed below are my SMART Goals for my co-op term! I have also included a workplace goal at the bottom.<br/><br/>
 
-# Competency 1: Critical Thinking and Problem Solving Skills
+## Competency 1: Critical Thinking and Problem Solving Skills
 <ins>SMART Goal 1: </ins>By Monday, March 3rd 2025, I will have improved my ability to clearly communicate my thoughts effectively in an articulated and concise manner by quickly and carefully thinking about the wording of my thoughts, as well as the contents of my wording before speaking. 
 
 <ins>SMART Goal 2: </ins>By Monday, March 3rd 2025, I will have the ability to see, and account for, the many different possible perspectives that may arise when formulating a solution to a problem by writing them down and discussing it with others.
@@ -17,7 +17,7 @@ Listed below are my SMART Goals for my co-op term! I have also included a workpl
 <ins>Why did you choose this competency? </ins> In Computer Science, problem solving skills and critical thinking is at the very core of the discipline. Given that I will be working with lots of people throughout my career, It is very important to be able to articulate my thoughts properly, so that highly informed and unbiased decisions can be made with respect to the bigger picture of solving the problem altogether. <br/><br/>
 
 
-# Competency 2: Communication Skills
+## Competency 2: Communication Skills
 <ins>SMART Goal 1: </ins>By Monday, March 31st 2025, I will have further developed my skills to actively listen to others, both in and out of the workplace, by taking notes, and asking follow-up questions. 
 
 <ins>SMART Goal 2: </ins>By Monday, March 31st 2025, I will have advanced my skills in extracting what information may be necessary, for whatever it is that I’m doing, through asking questions, reviewing my notes, and listening to what others have to say.
@@ -27,7 +27,7 @@ My reason for choosing this goal is because I’d notice that I don’t exactly 
 <br/><br/>
 
 
-# Competency 3: Curiosity and Imagination Skills
+## Competency 3: Curiosity and Imagination Skills
 <ins>SMART Goal 1: </ins>
 By Monday, March 31st 2025, I will be much more open to trying new things that are not within my comfort zone by attempting to adopt a growth mindset, as well as heavily encouraging a positive mentality.
 
@@ -38,7 +38,7 @@ By Monday, March 31st 2025, I will be more willing to “think outside the box�
 Computer Science is a discipline that is chock-full of problems waiting to be solved. I strongly believe that when you are faced with a problem within this discipline, it’s very important to see all of your possible ideas for solving a problem you may be faced with. It’s very important to think outside the box, be open to making lots of mistakes when trying new things, and at times be creative in your solutions.
 <br/><br/>
 
-# Workplace Goal: Develop leadership by addressing and working through technical challenges. Understanding root causes and remediation plans to resolve.
+## <ins>Workplace Goal:</ins> Develop leadership by addressing and working through technical challenges. Understanding root causes and remediation plans to resolve.
 
 I will achieve this goal by the end of my co-op term by actively participating in any technical problems that may arise, documenting my ideas to solve the problem and clearly communicate them to the rest of my team. I will also be communicating plans for some potential solutions stemming from the root causes.
 
