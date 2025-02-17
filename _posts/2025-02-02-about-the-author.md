@@ -18,8 +18,5 @@ If there’s anyone I ever looked up to and still do, it would be my Computer Sc
 
 The artifact I have chosen is the humble, yet mighty transistor. It acts as a switch in our electronics. There are hundreds of billions of them in our modern technology and are responsible for powering them. I don’t think I’d ever become who I am today without the technology I grew up with. And since transistors power them all, it’s an integral part of who I am and what I continue to do everyday.
 
-
-
-
-
-
+Below is my "Why Me" video that I have created for this course. Feel free to give it a watch!
+<iframe width="560" height="315" src="https://youtu.be/uOZm7ZiPw-M" frameborder="0" allowfullscreen></iframe>
