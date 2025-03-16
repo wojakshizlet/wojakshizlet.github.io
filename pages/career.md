@@ -1,6 +1,6 @@
 ---
 layout: category
-category: career
 title: Career
+category: career
 permalink: /my-career
 ---
