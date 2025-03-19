@@ -4,7 +4,7 @@ title: "My SMART Goals"
 author: "Shiza Shaikh"
 categories: [facts, posts]
 tags: []
-image: target.webp
+image: target.jpg
 ---
 
 Listed below are my SMART Goals for my co-op term! I have also included a workplace goal at the bottom.<br/><br/>
