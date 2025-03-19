@@ -2,7 +2,7 @@
 layout: post
 title: "My SMART Goals"
 author: "Shiza Shaikh"
-categories: [facts, posts]
+categories: [facts, posts, career]
 tags: []
 image: target.jpg
 ---
