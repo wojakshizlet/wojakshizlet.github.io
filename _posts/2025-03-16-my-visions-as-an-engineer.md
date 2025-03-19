@@ -2,8 +2,8 @@
 layout: post
 title: "My Visions as an Engineer"
 author: "Shiza Shaikh"
-categories: [career]
-tags: [facts, posts]
+categories: [career, posts]
+tags: [facts]
 image: career.jpg
 ---
 
