@@ -4,7 +4,7 @@ title: "About Me"
 author: "Shiza Shaikh"
 categories: [facts, posts]
 tags: []
-image: cuba-2.jpg
+image: shiz.jpg
 ---
 
 ## About Me
