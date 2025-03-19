@@ -4,7 +4,7 @@ title: "My Visions as an Engineer"
 author: "Shiza Shaikh"
 categories: [facts, posts, career]
 tags: [career]
-image: career.jpg
+image: career.webp
 ---
 
 Being an engineer is more than just a title. It's also about continuing to be the best version of yourself for not just you, but also for the general public. You have an obligation to serve the people in your own community, and perhaps even the entire globe. As an aspiring engineer, the reasons outlined above are exactly why I personally and strongly believe that I should strive to be open minded, responsible, and always willing to learn. 
