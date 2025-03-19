@@ -12,7 +12,7 @@ menu:
 - {name: 'My Career',  url: 'career'}
 - {name: 'Coursework', url: 'coursework'}
 - {name: 'Projects',   url: 'projects'}
-- {name: 'Bibliography', url: 'bibliography'}
+- {name: 'Biography', url: 'bio'}
 - {name: 'Docs', url: 'docs'}
 # - {name: 'Learning Resources', url: 'resources'}
 # - {name: 'Documentation',      url: 'documentation'}
