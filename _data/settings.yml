@@ -8,20 +8,20 @@ google-ID: ''
 
 menu:
 - {name: 'About Me',   url: 'about-me'}
+- {name: 'Biography',  url: 'bio'}
 - {name: 'Posts',      url: 'posts'}
 - {name: 'My Career',  url: 'career'}
 - {name: 'Coursework', url: 'coursework'}
 - {name: 'Projects',   url: 'projects'}
-- {name: 'Biography', url: 'bio'}
-- {name: 'Docs', url: 'docs'}
+# - {name: 'Docs',       url: 'docs'}
 # - {name: 'Learning Resources', url: 'resources'}
 # - {name: 'Documentation',      url: 'documentation'}
 # - {name: 'ded',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-# - {icon: 'twitter', link:    'https://twitter.com/paululele'}
-# - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
+# - {icon: 'twitter', link:    'https://twitter.com/ezekishizlet'}
+# - {icon: 'facebook', link:   'https://www.facebook.com/  '}
 - {icon: 'instagram', link:  'https://instagram.com/nobullshizpins/'}
 - {icon: 'envelope', link:   'mailto:shizashaikh456@gmail.com'}
 - {icon: 'linkedin', link:  'https://www.linkedin.com/in/shizlet/'}
