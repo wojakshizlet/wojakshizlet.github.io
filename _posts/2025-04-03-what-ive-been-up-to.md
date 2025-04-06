@@ -39,9 +39,8 @@ The entire day was a huge blast! We had a lot of food, a lot of breakout rooms, 
 I've been trying to keep my tech skills sharp outside of work, too. Well, aside from unwinding with video games. I've been really into this one game called "Pokemon White 2" lately. I'm having a blast so far!
 <br/>
 
-As for my other smaller projects, I've also been in the process of building my very own desktop computer. I have all the parts I need, I just need to assemble it! For those curious tech nerds out there, here are the specs over at PCPartPicker. Feel free to take a look!
+As for my other smaller projects, I've also been in the process of building my very own desktop computer. I have all the parts I need, I just need to assemble it! For those curious tech nerds out there, [here are the specs over at PCPartPicker](https://ca.pcpartpicker.com/list/GCTsjn). Feel free to take a look!
 <br/>
-https://ca.pcpartpicker.com/list/GCTsjn
 <br/>
 
 I have also been trying to put together my very own NAS Server using a Raspberry Pi 5! It's an effort to streamline the file sharing process between my phone, tablet, laptop, and soon my desktop computer that I am building. It's been something I've needed for quite some time for both school and personal projects. I can't wait for when it's finished!
