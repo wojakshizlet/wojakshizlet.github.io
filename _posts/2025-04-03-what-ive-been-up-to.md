@@ -46,7 +46,7 @@ As for my other smaller projects, I've also been in the process of building my v
 I have also been trying to put together my very own NAS Server using a Raspberry Pi 5! It's an effort to streamline the file sharing process between my phone, tablet, laptop, and soon my desktop computer that I am building. It's been something I've needed for quite some time for both school and personal projects. I can't wait for when it's finished!
 <br/>
 
-My New 3DS XL is also in dire need of refurbishment, since my directional-pad is broken, and the exterior is all worn down. Much like my PC, I only just obtained the parts. I also got a fancy screwdriver kit in case of future repairs/refurbishments that are also needed. I will try to start it whenever possible! I'm so excited!
+My New 3DS XL is also in dire need of refurbishment, since my directional-pad is broken, and the exterior is all worn down. Much like my soon-to-be-built desktop computer, I only just obtained the parts. I also got a fancy screwdriver kit in case of future repairs/refurbishments that may be needed elsewhere. I will try to start it whenever possible! I'm so excited!
 
 ## How about any projects related to your major?
-Those are also in the works, too! I'm currently working on a v2 for my PCB Business Card Project (see the "Projects" tab for v1"). 
+Those are also in the works, too! I'm currently working on a v2 for my PCB Business Card Project (see the "Projects" tab for v1). 
