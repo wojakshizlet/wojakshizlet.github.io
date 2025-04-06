@@ -36,6 +36,16 @@ image: education.jpg
 <br/>
 <br/>
 
+## Certificates
+**Academy Instructor & IT Essentials - Cisco Networking Academy**
+<br/><ins>Issued:</ins> June 2022 - Present<br/>
+
+**5G Introductory-Level Certification - Qualcomm**
+<br/><ins>Issued:</ins> May 2024 - Present<br/>
+
+<br/>
+<br/>
+
 ## Volunteering
 **Social Media Relations Executive - North American Young Generation in Nuclear (NAYGN) York University**
 <br/><ins>Timeframe:</ins> September 2023 - April 2024<br/>
