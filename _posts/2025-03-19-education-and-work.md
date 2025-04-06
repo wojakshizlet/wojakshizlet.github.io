@@ -21,11 +21,11 @@ image: education.jpg
 **Grocery Clerk - Food Basics**
 <br/><ins>Timeframe:</ins> November 2020 - September 2021<br/>
 
-**Inventory Clerk - Sayal Electronics (Markham)**
-<br/><ins>Timeframe:</ins> July 2022 - August 2022<br/>
-
 **IT Micro-Intern - Toronto District School Board**
 <br/><ins>Timeframe:</ins> April 2022 - June 2022<br/>
+
+**Inventory Clerk - Sayal Electronics (Markham)**
+<br/><ins>Timeframe:</ins> July 2022 - August 2022<br/>
 
 **Peer Mentor Captain - Lassonde School of Engineering**
 <br/><ins>Timeframe:</ins> September 2023 - March 2024<br/>
