@@ -18,7 +18,7 @@ permalink: /projects
  "Soccer Slime Recreation")
 
 **Battery Management System Algorithm**
-<br/> ![alt text](https://devpost.com/software/battery-management-algorithm "BMS Algorithm")
+<br/> ![embed](https://devpost.com/software/battery-management-algorithm)
 
 **Arpeggiator VST3 Plugin**
 <br/>
