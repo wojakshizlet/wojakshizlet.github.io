@@ -4,8 +4,15 @@ title: "Projects"
 permalink: /projects
 ---
 
-## Projects
-**Microcontroller PCB Business Card**
+## Upcoming Projects
+**Tiny Tapeout 10** <br/>
+**Raspberry Pi 5 NAS (Network Attached Storage)** <br/>
+**GameBoy Emulator** <br/>
+**Microcontroller PCB Business Card v2** <br/>
+**Desktop Computer** <br/>
+
+## Complete Projects
+**Microcontroller PCB Business Card v1**
 <br/> ![alt text](https://github.com/user-attachments/assets/ebbc5b6c-ed05-4e79-85da-af9b208fcdcf
  "PCB Business Card")
 <br/>
@@ -60,4 +67,4 @@ A project created for Ellehacks 2023 at York University. It is a chatbot that sp
 <br/> ![alt text](https://github.com/user-attachments/assets/23ea90bb-345a-45f2-acb3-370d970b27a2
  "BangerBot Discord Bot Profile")
  <br/>
-A Discord Bot created using Python, as well as the Hikari and Lightbulb modules that plays music on the Discord app in voice channels. 
+A Discord Bot created using Python, as well as the Hikari and Lightbulb modules. It plays music on the Discord app in voice channels. 
